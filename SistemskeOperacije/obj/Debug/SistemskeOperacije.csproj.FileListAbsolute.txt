@@ -1,0 +1,63 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\bin\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\bin\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+D:\Downloads\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+D:\Downloads\Knjizara\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+D:\Downloads\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.dll
+D:\Downloads\Knjizara\SistemskeOperacije\bin\Debug\Sesija.dll
+D:\Downloads\Knjizara\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+D:\Downloads\Knjizara\SistemskeOperacije\bin\Debug\Sesija.pdb
+D:\Downloads\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+D:\Downloads\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+D:\Downloads\Knjizara\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

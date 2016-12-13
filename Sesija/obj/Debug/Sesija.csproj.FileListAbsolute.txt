@@ -1,0 +1,56 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Sesija\obj\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Sesija\bin\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Sesija\bin\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Sesija\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Sesija\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Sesija\obj\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Sesija\obj\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Sesija\bin\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Sesija\bin\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Sesija\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Sesija\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Sesija\obj\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Sesija\obj\Debug\Sesija.pdb
+D:\Downloads\Knjizara\Sesija\bin\Debug\Sesija.dll
+D:\Downloads\Knjizara\Sesija\bin\Debug\Sesija.pdb
+D:\Downloads\Knjizara\Sesija\bin\Debug\Biblioteka.dll
+D:\Downloads\Knjizara\Sesija\bin\Debug\Biblioteka.pdb
+D:\Downloads\Knjizara\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+D:\Downloads\Knjizara\Sesija\obj\Debug\Sesija.dll
+D:\Downloads\Knjizara\Sesija\obj\Debug\Sesija.pdb

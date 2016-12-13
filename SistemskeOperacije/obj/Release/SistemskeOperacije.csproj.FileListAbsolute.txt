@@ -1,0 +1,9 @@
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Release\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Release\SistemskeOperacije.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Release\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Release\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Release\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\bin\Release\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\obj\Release\SistemskeOperacije.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\obj\Release\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\SistemskeOperacije\obj\Release\SistemskeOperacije.pdb

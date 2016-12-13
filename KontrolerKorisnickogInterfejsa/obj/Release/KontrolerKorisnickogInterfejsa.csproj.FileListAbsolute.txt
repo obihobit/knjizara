@@ -1,0 +1,9 @@
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\bin\Release\KontrolerKorisnickogInterfejsa.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\bin\Release\KontrolerKorisnickogInterfejsa.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\bin\Release\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\bin\Release\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\bin\Release\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\bin\Release\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\obj\Release\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\obj\Release\KontrolerKorisnickogInterfejsa.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerKorisnickogInterfejsa\obj\Release\KontrolerKorisnickogInterfejsa.pdb

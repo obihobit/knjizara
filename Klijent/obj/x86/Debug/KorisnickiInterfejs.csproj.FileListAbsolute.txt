@@ -1,0 +1,141 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosDobavljaca.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledDobavljaca.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosKnjige.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.Pregled_knjiga.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.Pregled_knjiga.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledDobavljaca.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosDobavljaca.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosKnjige.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Klijent\obj\x86\Debug\Klijent.Detalji_racuna.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\Klijent.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\Klijent.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.Detalji_racuna.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.Form1.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.Pregled_knjiga.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledDobavljaca.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosDobavljaca.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosKnjige.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\Klijent.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\Klijent.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.Detalji_racuna.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.Form1.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.Pregled_knjiga.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledDobavljaca.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosDobavljaca.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosKnjige.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.exe
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.pdb
+D:\Downloads\Knjizara\Klijent\bin\Debug\Klijent.exe
+D:\Downloads\Knjizara\Klijent\bin\Debug\Klijent.pdb
+D:\Downloads\Knjizara\Klijent\bin\Debug\Biblioteka.dll
+D:\Downloads\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+D:\Downloads\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+D:\Downloads\Knjizara\Klijent\bin\Debug\Biblioteka.pdb
+D:\Downloads\Knjizara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+D:\Downloads\Knjizara\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.Detalji_racuna.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.Form1.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.Pregled_knjiga.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledDobavljaca.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.PregledRacuna.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosDobavljaca.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosKnjige.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+D:\Downloads\Knjizara\Klijent\obj\x86\Debug\Klijent.DetaljiKnjige.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Klijent\obj\x86\Debug\Klijent.DetaljiKnjige.resources

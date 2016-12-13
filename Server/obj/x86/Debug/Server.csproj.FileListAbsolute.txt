@@ -1,0 +1,114 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\Server\obj\x86\Debug\Server.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\obj\x86\Debug\Server.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\obj\x86\Debug\Server.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\Server.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\Server.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\bin\Debug\SistemskeOperacije.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\obj\x86\Debug\Server.Form1.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\obj\x86\Debug\Server.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\obj\x86\Debug\Server.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\Server.exe
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\Server.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\Sesija.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\SistemskeOperacije.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\Sesija.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\bin\Debug\SistemskeOperacije.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\obj\x86\Debug\Server.Form1.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\Downloads\Knjizara\Server\obj\x86\Debug\Server.exe
+D:\Downloads\Knjizara\Server\obj\x86\Debug\Server.pdb
+D:\Downloads\Knjizara\Server\bin\Debug\Server.exe
+D:\Downloads\Knjizara\Server\bin\Debug\Server.pdb
+D:\Downloads\Knjizara\Server\bin\Debug\Biblioteka.dll
+D:\Downloads\Knjizara\Server\bin\Debug\Sesija.dll
+D:\Downloads\Knjizara\Server\bin\Debug\SistemskeOperacije.dll
+D:\Downloads\Knjizara\Server\bin\Debug\Biblioteka.pdb
+D:\Downloads\Knjizara\Server\bin\Debug\Sesija.pdb
+D:\Downloads\Knjizara\Server\bin\Debug\SistemskeOperacije.pdb
+D:\Downloads\Knjizara\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Downloads\Knjizara\Server\obj\x86\Debug\Server.Form1.resources
+D:\Downloads\Knjizara\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Downloads\Knjizara\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache

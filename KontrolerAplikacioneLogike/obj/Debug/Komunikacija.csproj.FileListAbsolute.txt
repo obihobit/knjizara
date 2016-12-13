@@ -1,0 +1,42 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Kolokvijum\Joca\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Arsa\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+D:\Downloads\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+D:\Downloads\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+D:\Downloads\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+D:\Downloads\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+D:\Downloads\Knjizara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+D:\Downloads\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+D:\Downloads\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb

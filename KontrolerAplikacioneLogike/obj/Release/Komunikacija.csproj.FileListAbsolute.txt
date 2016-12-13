@@ -1,0 +1,6 @@
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Release\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Release\KontrolerAplikacioneLogike.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Release\Biblioteka.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\bin\Release\Biblioteka.pdb
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\obj\Release\KontrolerAplikacioneLogike.dll
+D:\Fax\IV Godina\Projektovanje Softvera\Seminarski\Knjizara\KontrolerAplikacioneLogike\obj\Release\KontrolerAplikacioneLogike.pdb
